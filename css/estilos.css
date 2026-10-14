@@ -1,0 +1,8 @@
+.tarjeta {
+    border: 1px solid #c9d2dd;
+    padding: 1rem;
+  }
+
+.tarjeta h3 {
+    margin-top: 0;
+}
